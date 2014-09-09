@@ -3,4 +3,4 @@ Brainfuck
 
 JavaScript Brainfuck Interpreter
 
-[Demo](https://github.com/wixon/Brainfuck)
+[Demo](http://jns.me/Brainfuck/)
